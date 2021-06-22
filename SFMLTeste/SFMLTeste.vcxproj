@@ -24,6 +24,7 @@
     <ProjectGuid>{843b5a6f-2be9-4500-97f2-3959d7b65fd4}</ProjectGuid>
     <RootNamespace>SFMLTeste</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SFMLPong</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
